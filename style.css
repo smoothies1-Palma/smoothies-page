@@ -1,0 +1,18 @@
+body{background-color: rgba(71, 39, 77, 0.938); font-family:arial, sans-serif, sans-serif;}
+.contenedor{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(50, 30, 56);
+    padding: 20px;
+    text-align: center;
+}
+h1{text-align: center; color: rgb(9, 235, 160);}
+h2{color: rgb(59, 233, 175); font-family: 'permanent market', cursive;}
+button{ background-color: black;color: aquamarine; border: none; padding: 10px 20px;
+cursor: pointer;}
+h1{
+ font-family: 'permanent market', cursive;
+}
+a{
+    text-decoration: none;
+}
